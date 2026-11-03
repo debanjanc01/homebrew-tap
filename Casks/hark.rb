@@ -1,7 +1,7 @@
 # Hark: hold-to-talk dictation for macOS. Source: https://github.com/debanjanc01/hark
 cask "hark" do
-  version "0.2.7"
-  sha256 "53b55e53ba4b1f3ddb76ab8fb67fdd0066d813fcd7f253ccc763b9269abb4f0d"
+  version "0.2.8"
+  sha256 "c7947e6565a78d15de1e5d739bb4806715df4ef5280498f3e32e9bad225d30ef"
 
   url "https://github.com/debanjanc01/hark/releases/download/v#{version}/Hark-#{version}.zip"
   name "Hark"
