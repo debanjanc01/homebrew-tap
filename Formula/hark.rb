@@ -2,8 +2,8 @@
 class Hark < Formula
   desc "Hold-to-talk dictation for macOS that runs entirely on your Mac"
   homepage "https://github.com/debanjanc01/hark"
-  url "https://github.com/debanjanc01/hark/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "22bc54df10cc678a78148c8b89c652a89bd47fffb6943005a816a924793a4de8"
+  url "https://github.com/debanjanc01/hark/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "8b3088be06d9888bcfc31b0a20b07fc03b788ea4385f09e40dd0cbafdc16a954"
   license "MIT"
 
   depends_on arch: :arm64
